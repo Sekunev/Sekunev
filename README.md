@@ -15,29 +15,13 @@
 <p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
 
 
-<h2 align="center">Hi 👋! My name is Can and I'm a Front-end Developer with React skills</h2>
-<!--
-<div align="center">
-<img src="https://github.com/canocalir/canocalir/blob/output/github-contribution-grid-snake.gif"/>
-</div>
--->
 
-### 
-
-<div align="center">
-<img src="./profile-3d-contrib/profile-gitblock.svg"/>
-</div>
-
-###
-
-<!--
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&username=canocalir" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=react&hide_border=true&username=canocalir" height="150" alt="languages graph"  />
-</div>
--->
+  Project Demo       |Libraries and Technologies I use     |Project Preview   
+:-------------------------|-------------------------|-------------------------
+[React Schiphol Airport Flights App](https://reliable-chimera-0baadb.netlify.app/) <h3>[Repo](https://github.com/canocalir/schipol-metrics)</h3> | ReactJS, Styled Components, React Toastify, Official Schipol Api |![schiphol](https://user-images.githubusercontent.com/11324886/200136369-42e3d85c-8f91-4d55-a5df-e8ab93f4549d.gif)
+[React - Redux Firebase Blog App](https://gleaming-bunny-a87b8c.netlify.app/) <h3>[Repo](https://github.com/canocalir/reactor-blog)</h3> | ReactJS, Styled Components, Redux Toolkit, Firebase | ![blog](https://user-images.githubusercontent.com/11324886/202948194-cd867a9d-aa44-4da3-9312-5859f2a84049.gif)
+[React Rijks Museum Color to Art App](https://startling-paprenjak-68c1ff.netlify.app/) <h3>[Repo](https://github.com/canocalir/rijksmuseum-colortopainting)</h3> | ReactJS, Styled Components, React Router, Sass, Official RijksMuseum Api |![rijks](https://user-images.githubusercontent.com/11324886/202180622-ad1b3cd7-47df-4b2b-9fcb-62ea6d751698.gif)
+[React Firebase Movie App](https://musical-moonbeam-a4cdde.netlify.app/) <h3>[Repo](https://github.com/canocalir/movie-database)</h3> | ReactJS, Styled Components, Firebase Authentication, Flowbite React, Tailwind CSS, The Movie Database Api, React Toastify |![movie](https://user-images.githubusercontent.com/11324886/200697849-9cad9dba-e885-40ba-95e6-6625dfbfed77.gif)
 
 
 
