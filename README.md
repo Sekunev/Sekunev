@@ -60,6 +60,18 @@
 [React - Movie App](https://sekunev-mui-movie-app.netlify.app/) <h3>[Repo](https://github.com/Sekunev/movie-app)</h3> | ReactJS, firebase, Material UI, react-toastify | ![blog](https://github.com/Sekunev/movie-app/blob/main/Animation.gif)
 [React - Recipe App](https://sekunev-recipe-app.netlify.app/) <h3>[Repo](https://github.com/Sekunev/Recipe-App)</h3> | ReactJS, HTML, CSS, Bootstrap | ![blog](https://github.com/Sekunev/Recipe-App-2/blob/main/src/Animation.gif)
 [React - Weather App](https://sekunev.github.io/Weather-App/) <h3>[Repo](https://github.com/Sekunev/Weather-App)</h3> | HTML, CSS and Javascript (fetch api) | ![blog](https://github.com/Sekunev/Weather-App/blob/main/Weather-App.gif)
+[React - Tour Places](https://sekunev.github.io/Tour-Places/) <h3>[Repo](https://github.com/Sekunev/Tour-Places)</h3> | ReactJS, HTML, SCSS | ![blog](https://github.com/Sekunev/Tour-Places/blob/main/src/Animation.gif)
+[React - Classic Car Image Album](https://sekunev.github.io/Image-Album/) <h3>[Repo](https://github.com/Sekunev/Image-Album)</h3> | ReactJS, HTML, CSS | ![blog](https://github.com/Sekunev/Image-Album/blob/main/Animation.gif)
+[React - Todo App (Type Script)](https://sekunev-todo-app.netlify.app/) <h3>[Repo](https://github.com/Sekunev/todoapp_typescript)</h3> | ReactJS, TypeScript, MocApi, Lordicon | ![blog](https://github.com/Sekunev/todoapp_typescript/blob/main/Animation.gif)
+[React - Movie App (Tailwind)](https://sekunev-tailwind-movie-app.netlify.app/) <h3>[Repo](https://github.com/Sekunev/movie-app-tailwind)</h3> | ReactJS, firebase , Tailwind, react-toastify | ![blog](https://github.com/Sekunev/movie-app-tailwind/blob/main/Animation.gif)
+[React - contact-app](https://sekunev-contact-app.netlify.app/) <h3>[Repo](https://github.com/Sekunev/contact-app)</h3> | ReactJS, TypeScript, MocApi, Lordicon | ![blog](https://github.com/Sekunev/contact-app/blob/main/Animation.gif)
+[React - Weather App](https://sekunev-weather-app.netlify.app/) <h3>[Repo](https://github.com/Sekunev/Weather-App-React)</h3> | ReactJS, Postman, HTML, CSS | ![blog](https://github.com/Sekunev/Weather-App-React/blob/main/src/Animation.gif)
+[React - Task Tracker](https://sekunev-task-tracker.netlify.app/) <h3>[Repo](https://github.com/Sekunev/Task-Tracker)</h3> | ReactJS, React-icon, Bootstrap | ![blog](https://github.com/Sekunev/Task-Tracker/blob/main/Animation.gif)
+[React - Random User App](https://sekunev-random-user-app-v2.netlify.app/) <h3>[Repo](https://github.com/Sekunev/Random-User-V)</h3> | ReactJS, Postman, HTML, CSS | ![blog](https://github.com/Sekunev/Random-User-V/blob/main/src/Animation.gif)
+[React - Employee List](https://sekunev-employee-list.netlify.app/) <h3>[Repo](https://github.com/Sekunev/Employee-List)</h3> | ReactJS, Bootstrap, CSS | ![blog](https://user-images.githubusercontent.com/101554737/196009709-4e91cb90-5e2e-4d36-ad03-1eba06bfa973.png)
+[React - Random-User-App](https://sekunev-random-user-app.netlify.app/) <h3>[Repo](https://github.com/Sekunev/Random-User-App)</h3> | ReactJS, Bootstrap, HTML, CSS | ![blog](https://github.com/Sekunev/Random-User-App/blob/main/Animation.gif)
+[React - Language Cards](https://sekunev-language-cards.netlify.app/) <h3>[Repo](https://github.com/Sekunev/Language-Cards)</h3> | ReactJS, React-Boostrap, CSS, | ![blog](https://github.com/Sekunev/Language-Cards/blob/main/src/Animation.gif)
+[React - Random-User-App](https://sekunev.github.io/Projects/25_Bootstrap-Web-Page/) <h3>[Repo](https://github.com/Sekunev/Bootstrap-Web-Page)</h3> | ReactJS, Bootstrap, HTML, CSS | ![blog](https://github.com/Sekunev/Bootstrap-Web-Page/blob/main/Animation.gif)
 
 
 <h3 align="center">📊 GitHub Stats:</h3>
