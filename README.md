@@ -10,7 +10,7 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[React - FireBlog App](https://github.com/Sekunev/FireBlog-App) <h3>[Repo](https://github.com/Sekunev/FireBlog-App)</h3> | ReactJS, React Router, Context, Formik, Yup, Firebase Realtime Database, Material UI, react-toastify |![FireBlog App](https://github.com/Sekunev/FireBlog-App/blob/main/Animation.gif)
+[React - FireBlog App](https://sekunev-blog-app.netlify.app//) <h3>[Repo](https://github.com/Sekunev/FireBlog-App)</h3> | ReactJS, React Router, Context, Formik, Yup, Firebase Realtime Database, Material UI, react-toastify |![FireBlog App](https://github.com/Sekunev/FireBlog-App/blob/main/Animation.gif)
 [React - Movie App](https://sekunev-mui-movie-app.netlify.app/) <h3>[Repo](https://github.com/Sekunev/movie-app)</h3> | ReactJS, firebase, Material UI, react-toastify | ![blog](https://github.com/Sekunev/movie-app/blob/main/Animation.gif)
 
 
