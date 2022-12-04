@@ -71,7 +71,17 @@
 [React - Employee List](https://sekunev-employee-list.netlify.app/) <h3>[Repo](https://github.com/Sekunev/Employee-List)</h3> | ReactJS, Bootstrap, CSS | ![blog](https://user-images.githubusercontent.com/101554737/196009709-4e91cb90-5e2e-4d36-ad03-1eba06bfa973.png)
 [React - Random-User-App](https://sekunev-random-user-app.netlify.app/) <h3>[Repo](https://github.com/Sekunev/Random-User-App)</h3> | ReactJS, Bootstrap, HTML, CSS | ![blog](https://github.com/Sekunev/Random-User-App/blob/main/Animation.gif)
 [React - Language Cards](https://sekunev-language-cards.netlify.app/) <h3>[Repo](https://github.com/Sekunev/Language-Cards)</h3> | ReactJS, React-Boostrap, CSS, | ![blog](https://github.com/Sekunev/Language-Cards/blob/main/src/Animation.gif)
-[React - Random-User-App](https://sekunev.github.io/Projects/25_Bootstrap-Web-Page/) <h3>[Repo](https://github.com/Sekunev/Bootstrap-Web-Page)</h3> | ReactJS, Bootstrap, HTML, CSS | ![blog](https://github.com/Sekunev/Bootstrap-Web-Page/blob/main/Animation.gif)
+[React - styled-Comp-Web-Pages](https://styled-components-web-pages.netlify.app/) <h3>[Repo](https://github.com/Sekunev/Web-Pages-styled-Comp)</h3> | ReactJS, styled-components  | ![blog](https://github.com/Sekunev/Web-Pages-styled-Comp/blob/main/src/Animation.gif)
+[Bootstrap - Bootstrap Web Page](https://sekunev.github.io/Projects/25_Bootstrap-Web-Page/) <h3>[Repo](https://github.com/Sekunev/Bootstrap-Web-Page)</h3> | Bootstrap, HTML | ![blog](https://github.com/Sekunev/Bootstrap-Web-Page/blob/main/Animation.gif)
+[Javascript - Checkout-form](https://sekunev.github.io/Projects/32_Checkout-form_DOM/) <h3>[Repo](https://github.com/Sekunev/Checkout-form)</h3> | Javascript, HTML, CSS | ![blog](https://github.com/Sekunev/Projects/blob/main/32_Checkout-form_DOM/Checkout-Form-21-September-2022.gif)
+[Javascript Country-Flag](https://sekunev.github.io/Projects/36_Country_flag-app/) <h3>[Repo](https://github.com/Sekunev/Country_flag-app)</h3> | Javascript (Async-await), HTML, CSS styling, CSS Grid | ![blog](https://github.com/Sekunev/Projects/blob/main/36_Country_flag-app/JS19-Flag-APP-25-September-2022.gif)
+[Javascript - IOS-Calculator](https://sekunev.github.io/IOS_Calculator/) <h3>[Repo](https://github.com/Sekunev/IOS_Calculator)</h3> | HTML, CSS and Javascript (DOM-event.target) | ![blog](https://github.com/Sekunev/IOS_Calculator/blob/main/003.gif)
+[SASS_Portfolio](https://sekunev.github.io/Projects/22_SASS_Portfolio/) <h3>[Repo](https://github.com/Sekunev/SASS-Web-Pages)</h3> | HTML, SASS | ![blog](https://github.com/Sekunev/SASS-Web-Pages/blob/main/Animation.gif)
+[Netflix Landing Surway_Page](https://sekunev.github.io/Projects/04_Netflix/) <h3>[Repo](https://github.com/Sekunev/Netflix)</h3> | HTML, CSS | ![blog](https://user-images.githubusercontent.com/101554737/184588266-7f75aeaa-f5cc-4609-879d-dfa9d0ead225.png)
+[Google Landing Page](https://sekunev.github.io/Projects/06_Google_Landing_Page/) <h3>[Repo](https://github.com/Sekunev/Google_Landing_Page)</h3> | HTML, CSS | ![blog](https://user-images.githubusercontent.com/101554737/184587683-eeeb960c-d3d0-4fe7-b0db-6daea6aa3515.png)
+[CSS-Grid Galata Kulesi](https://sekunev.github.io/Projects/18_CSS_Grid/) <h3>[Repo](https://github.com/Sekunev/Galata_Kulesi)</h3> | HTML, CSS | ![blog](https://user-images.githubusercontent.com/101554737/187047501-73d5cce3-8568-43e2-b771-843d67a4bf14.png)
+
+
 
 
 <h3 align="center">📊 GitHub Stats:</h3>
