@@ -6,14 +6,14 @@
 ###
 <br>
 <h2 align="center"> My projects</h2>
-###
+
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[React FireBlog App](https://github.com/Sekunev/FireBlog-App) <h3>[Repo](https://github.com/Sekunev/FireBlog-App)</h3> | ReactJS, React Router, Context, Formik, Yup, Firebase Realtime Database, Material UI, react-toastify |![FireBlog App](https://github.com/Sekunev/FireBlog-App/blob/main/Animation.gif)
-[React - Redux Firebase Blog App](https://gleaming-bunny-a87b8c.netlify.app/) <h3>[Repo](https://github.com/canocalir/reactor-blog)</h3> | ReactJS, Styled Components, Redux Toolkit, Firebase | ![blog](https://user-images.githubusercontent.com/11324886/202948194-cd867a9d-aa44-4da3-9312-5859f2a84049.gif)
+[React - FireBlog App](https://github.com/Sekunev/FireBlog-App) <h3>[Repo](https://github.com/Sekunev/FireBlog-App)</h3> | ReactJS, React Router, Context, Formik, Yup, Firebase Realtime Database, Material UI, react-toastify |![FireBlog App](https://github.com/Sekunev/FireBlog-App/blob/main/Animation.gif)
+[React - Movie App](https://sekunev-mui-movie-app.netlify.app/) <h3>[Repo](https://github.com/Sekunev/movie-app)</h3> | ReactJS, firebase, Material UI, react-toastify | ![blog](https://github.com/Sekunev/movie-app/blob/main/Animation.gif)
 
-###
+
 
 # 📊 GitHub Stats:
 
