@@ -58,9 +58,7 @@
 :-------------------------|-------------------------|-------------------------
 [React-Django - Stock App](https://sekunev-stock-app.netlify.app/) <h3>[Repo](https://github.com/Sekunev/Stock-App)</h3> | react, react-router, redux-toolkit, material-ui, axios, redux-persist, yup, tremor, formik, toastify |![Stock App](https://github.com/Sekunev/Stock-App/blob/main/src/assets/AnimationProject.gif)
 [React - FireBlog App](https://sekunev-blog-app.netlify.app//) <h3>[Repo](https://github.com/Sekunev/FireBlog-App)</h3> | ReactJS, React Router, Context, Formik, Yup, Firebase Realtime Database, Material UI, react-toastify |![FireBlog App](https://github.com/Sekunev/FireBlog-App/blob/main/Animation.gif)
-
 [React-Django - Ahlatlı Group Personel App](https://sekune-personal-app.netlify.app) <h3>[Repo](https://github.com/Sekunev/PersonalApp)</h3> | react, Django, redux-toolkit, Tailwind, axios, redux-persist, yup, formik, djangorestframework|![Ahlatlı Group Personel App](https://github.com/Sekunev/PersonalApp/blob/main/frontend/src/assets/AnimationProject.gif)
-
 [React - Movie App](https://sekunev-mui-movie-app.netlify.app/) <h3>[Repo](https://github.com/Sekunev/movie-app)</h3> | ReactJS, firebase, Material UI, react-toastify | ![blog](https://github.com/Sekunev/movie-app/blob/main/Animation.gif)
 [React - Recipe App](https://sekunev-recipe-app.netlify.app/) <h3>[Repo](https://github.com/Sekunev/Recipe-App)</h3> | ReactJS, CSS, Bootstrap | ![blog](https://github.com/Sekunev/Recipe-App-2/blob/main/src/Animation.gif)
 [JS - Weather App](https://sekunev.github.io/Weather-App/) <h3>[Repo](https://github.com/Sekunev/Weather-App)</h3> | Javascript (fetch api), CSS  | ![blog](https://github.com/Sekunev/Weather-App/blob/main/Weather-App.gif)
